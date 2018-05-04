@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.barclays.baggage.dao.InputHandler"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.main.ConveyorGraph"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.barclays.input.FlightDepartureHandler"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.dao.impl.ConveyorGraphHandler"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.dao.impl.FlightDepartureHandler"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.pojo.FlightDeparture"/>
+<fullyQualifiedTypeName name="com.barclays.input.BagHandler"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.pojo.Bag"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.dao.impl.BagHandler"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.constants.Gate"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.pojo.ConveyorLink"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.main.Graph"/>
+<fullyQualifiedTypeName name="com.barclays.baggage.pojo.ConveyorNode"/>
+</qualifiedTypeNameHistroy>
